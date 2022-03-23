@@ -3,6 +3,6 @@ function boolToWord( bool ){
   }
   // we must return a value using b.toString();
   // if value == true then the function must return "yes";
-  //if value == false, then function must return "no";
+  // if value == false, then function must return "no";
   
   
