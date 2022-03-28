@@ -6,4 +6,6 @@ function getAge(inputString){
     return Number(inputString[0]);
     }
     
-    
+    function getAge(inputString){
+        return parseInt(inputString);
+      }
