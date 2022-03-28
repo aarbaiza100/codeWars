@@ -5,10 +5,7 @@
   //}
 
   //convert it into an array of words 
-  // return str.trim().split("");
-
-  //trim()
-  //removes white space from both ends of a string and returns a new string
+  // return string.split('');
 
   //split()
   // divides string into an ordered list of substrings
@@ -18,3 +15,6 @@
   stringToArray = function (str) {
     return str.trim().split("");
   }
+
+  //Alternative 
+  //const stringToArray = string => string.split(' ');
