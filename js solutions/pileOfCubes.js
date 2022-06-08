@@ -1,5 +1,4 @@
-// volume of a cube 
-// v = a ^ 3 
+
 const cubes = m => {
     let total = 0
     let n = 0
