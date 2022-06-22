@@ -5,4 +5,4 @@ function invert(array) {
  }
 
 
-const invert = array => array.map(num => -num); // alternative solution 
+const invert = array => array.map(num => -num); 
