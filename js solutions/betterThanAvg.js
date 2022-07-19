@@ -5,9 +5,7 @@ function betterThanAverage(classPoints, yourPoints) {
 }
 
 
-// .reduce can return the sum of all elements in array 
 
-// code wars solution 
 function betterThanAverage(classPoints, yourPoints) {
     return yourPoints > classPoints.reduce((a, b) => a + b, 0) / classPoints.length; 
   }
